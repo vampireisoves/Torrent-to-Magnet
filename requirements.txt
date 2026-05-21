@@ -1,2 +1,0 @@
-bencodepy==0.9.5
-tkinterdnd2==0.4.3
