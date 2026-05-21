@@ -19,7 +19,7 @@ class TorrentToMagnetGUI:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("Torrent转Magnet工具 v1.0")
+        self.root.title("Torrent转Magnet工具 v20260521")
         self.root.geometry("800x600")
         self.root.resizable(True, True)
 
