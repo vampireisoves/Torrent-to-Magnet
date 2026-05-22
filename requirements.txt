@@ -1,3 +1,2 @@
-# 依赖表
-tkinterdnd2
 bencodepy
+tkinterdnd2
